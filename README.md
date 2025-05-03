@@ -5,7 +5,7 @@
 
 This task is perform on a sample database firstly i created h sample database then a table after that i drop the database and restore it. All these are done by step by step. Below is the script and the documentation of the task.
 
-**1: Create Sample Database**
+✅**1: Create Sample Database**
 
 psql -U postgres
 
