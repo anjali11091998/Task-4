@@ -1,6 +1,6 @@
 # TASK- 4
 
-
+DEMONSTRATE HOW TO BACK UP ADATABASE AND RESTORE IT IN CASE OF FAILURE. We explain how the database create and backup and after that how we can recover the database.
 
 
 This task is perform on a sample database firstly i created h sample database then a table after that i drop the database and restore it. All these are done by step by step. Below is the script and the documentation of the task.
